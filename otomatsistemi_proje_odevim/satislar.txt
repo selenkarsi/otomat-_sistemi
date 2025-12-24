@@ -1,0 +1,14 @@
+2 adet Su satildi. Toplam: 10.00 TL
+3 adet Kola satildi. Toplam: 45.00 TL
+2 adet Kola satildi. Toplam: 30.00 TL
+2 adet Cikolata satildi. Toplam: 22.00 TL
+2 adet Kola satildi. Toplam: 30.00 TL
+1 adet Zambak satildi. Toplam: 80.00 TL
+2 adet Zambak satildi. Toplam: 160.00 TL
+5 adet Orkide satildi. Toplam: 600.00 TL
+4 adet Menekse satildi. Toplam: 240.00 TL
+1 adet Zambak satildi. Toplam: 80.00 TL
+3 adet Orkide satildi. Toplam: 360.00 TL
+3 adet Zambak satildi. Toplam: 240.00 TL
+2 adet Zambak satildi. Toplam: 160.00 TL
+2 adet Zambak satildi. Toplam: 160.00 TL
